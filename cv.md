@@ -10,7 +10,7 @@
 -Studying programming and further strengthening my knowledge to become a good expert in this field. So I want to swim like a fish in the world of programming
 
 ## EXPERIENCE
--FROM OCTOBER 2022 TO NOW 
+-FROM OCTOBER 2022 TO NOW  <br>
  Mentor, IT PARK BUKHARA
 
 
