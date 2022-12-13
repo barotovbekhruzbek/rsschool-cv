@@ -14,10 +14,10 @@
  Mentor, IT PARK BUKHARA
 
 ## SKILLS
--html
--css
--Javascript
--Vue js
+- html
+- css
+- Javascript
+- Vue js
 
 
 
