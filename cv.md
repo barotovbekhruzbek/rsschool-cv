@@ -13,7 +13,11 @@
 -FROM OCTOBER 2022 TO NOW  <br>
  Mentor, IT PARK BUKHARA
 
-
+## SKILLS
+-html
+-css
+-Javascript
+-Vue js
 
 
 
