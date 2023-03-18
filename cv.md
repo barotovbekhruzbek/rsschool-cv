@@ -31,7 +31,6 @@
 
 <h3 align="left">Code example</h3>
 
-
 `var counterVal = 0;
 
 function incrementClick() {
