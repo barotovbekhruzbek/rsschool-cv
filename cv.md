@@ -32,8 +32,7 @@
 <h3 align="left">Code example</h3>
 
 
-`
-var counterVal = 0;
+`var counterVal = 0;
 
 function incrementClick() {
     updateDisplay(++counterVal);
@@ -46,5 +45,4 @@ function resetCounter() {
 
 function updateDisplay(val) {
     document.getElementById("counter-label").innerHTML = val;
-}
-`
+}`
