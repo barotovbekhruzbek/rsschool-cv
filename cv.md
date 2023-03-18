@@ -31,6 +31,20 @@
 
 <h3 align="left">Code example</h3>
 
--code  `def hello_world():
-    print("Hello, world!")
-hello_world()`
+
+`
+var counterVal = 0;
+
+function incrementClick() {
+    updateDisplay(++counterVal);
+}
+
+function resetCounter() {
+    counterVal = 0;
+    updateDisplay(counterVal);
+}
+
+function updateDisplay(val) {
+    document.getElementById("counter-label").innerHTML = val;
+}
+`
